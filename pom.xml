@@ -9,7 +9,7 @@
     <name>my-android-application</name>
 
     <properties>
-        <sdk.path>/home/ubuntu/android-sdk-linux/</sdk.path>
+        <sdk.path>/home/ubuntu/android-sdk-linux</sdk.path>
     </properties>
 
     <dependencies>
